@@ -21,7 +21,7 @@ Packages should be installed in specificied order. Install the following :
 3. [Fastjet](http://fastjet.fr/) (ver.3.3.2) along with the [fj-contrib](https://fastjet.hepforge.org/contrib/downloads/) (ver.1.039)
 4. [Madgraph](https://launchpad.net/mg5amcnlo) (ver.2.5.5)
     - *pythia-pkgs from this [tutorial](https://twiki.cern.ch/twiki/bin/view/CMSPublic/MadgraphTutorial).*
-    - *Do not install Delphes*
-5. [ROOT](https://root.cern.ch/downloading-root) (ver 6.10 - some others might work). 
-    - *Do not build it from source* 
+    - *Do not install Delphes.*
+5. [ROOT](https://root.cern.ch/downloading-root) (ver 6.10 - some others might work)
+    - *Do not build it from source.* 
 6. [Rootpy](http://www.rootpy.org/install.html) (can use Conda to install too)
